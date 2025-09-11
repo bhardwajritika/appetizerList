@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Rajma Chawal",
+    "description": "A comforting North Indian dish of red kidney beans curry served with rice.",
+    "price": 7.99,
+    "imageURL": "https://unsplash.com/photos/a-plate-of-food-93L024xGEUM",
+    "calories": 350,
+    "protein": 12,
+    "carbs": 55
+  },
+  {
+    "id": 2,
+    "name": "Chole Bhature",
+    "description": "Spicy chickpea curry served with fluffy fried bread.",
+    "price": 8.99,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Chole_Bhature.jpg",
+    "calories": 420,
+    "protein": 14,
+    "carbs": 60
+  },
+  {
+    "id": 3,
+    "name": "Vegetable Sandwich",
+    "description": "Fresh vegetable sandwich with cucumber, tomato, and chutney.",
+    "price": 4.99,
+    "imageURL": "https://unsplash.com/photos/burger-with-lettuce-and-tomatoes-cwOHrpKXhRI",
+    "calories": 220,
+    "protein": 6,
+    "carbs": 30
+  },
+  {
+    "id": 4,
+    "name": "Margherita Pizza",
+    "description": "Classic pizza with tomato sauce, mozzarella, and fresh basil.",
+    "price": 9.99,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Pizza_margherita_stu_spivack.jpg",
+    "calories": 400,
+    "protein": 15,
+    "carbs": 50
+  },
+  {
+    "id": 5,
+    "name": "Veggie Burger",
+    "description": "Grilled vegetable patty burger with lettuce and tomato.",
+    "price": 6.99,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/23/Veggie_Burger.jpg",
+    "calories": 320,
+    "protein": 12,
+    "carbs": 38
+  },
+  {
+    "id": 6,
+    "name": "Masala Maggi",
+    "description": "Instant noodles tossed with Indian spices and vegetables.",
+    "price": 3.99,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Maggi_noodles.jpg",
+    "calories": 280,
+    "protein": 6,
+    "carbs": 42
+  },
+  {
+    "id": 7,
+    "name": "Bruschetta",
+    "description": "Toasted bread topped with fresh tomatoes, garlic, and basil.",
+    "price": 5.99,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Bruschetta_2.jpg",
+    "calories": 150,
+    "protein": 3,
+    "carbs": 18
+  },
+  {
+    "id": 8,
+    "name": "Stuffed Mushrooms",
+    "description": "Mushrooms stuffed with cheese, herbs, and breadcrumbs.",
+    "price": 7.49,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/7/70/Stuffed_mushrooms.jpg",
+    "calories": 120,
+    "protein": 5,
+    "carbs": 8
+  },
+  {
+    "id": 9,
+    "name": "Caprese Salad",
+    "description": "Fresh mozzarella, tomatoes, and basil drizzled with olive oil.",
+    "price": 6.99,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/9/94/Caprese_salad.jpg",
+    "calories": 200,
+    "protein": 7,
+    "carbs": 6
+  },
+  {
+    "id": 10,
+    "name": "Spinach Dip",
+    "description": "Creamy spinach dip served with pita chips.",
+    "price": 6.49,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/27/Spinach_dip.jpg",
+    "calories": 180,
+    "protein": 4,
+    "carbs": 14
+  },
+  {
+    "id": 11,
+    "name": "Hummus & Veggies",
+    "description": "Classic hummus served with crunchy vegetable sticks.",
+    "price": 5.49,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Hummus_and_vegetables.jpg",
+    "calories": 170,
+    "protein": 6,
+    "carbs": 12
+  },
+  {
+    "id": 12,
+    "name": "Zucchini Fritters",
+    "description": "Crispy zucchini fritters with herb sour cream.",
+    "price": 7.99,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Zucchini_fritters.jpg",
+    "calories": 220,
+    "protein": 5,
+    "carbs": 20
+  },
+  {
+    "id": 13,
+    "name": "Edamame",
+    "description": "Steamed edamame sprinkled with sea salt.",
+    "price": 4.99,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Edamame.jpg",
+    "calories": 120,
+    "protein": 11,
+    "carbs": 9
+  },
+  {
+    "id": 14,
+    "name": "Guacamole & Chips",
+    "description": "Creamy guacamole served with tortilla chips.",
+    "price": 6.49,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Guacamole_with_chips.jpg",
+    "calories": 210,
+    "protein": 3,
+    "carbs": 18
+  },
+  {
+    "id": 15,
+    "name": "Panzanella Salad",
+    "description": "Tuscan-style tomato and bread salad bursting with flavor.",
+    "price": 6.99,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/04/Panzanella_salad.jpg",
+    "calories": 180,
+    "protein": 5,
+    "carbs": 22
+  }
+]
