@@ -15,7 +15,7 @@
     "name": "Chole Bhature",
     "description": "Spicy chickpea curry served with fluffy fried bread.",
     "price": 8.99,
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Chole_Bhature.jpg",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Pindi_cholle-amritsari_kulcha.JPG/640px-Pindi_cholle-amritsari_kulcha.JPG",
     "calories": 420,
     "protein": 14,
     "carbs": 60
@@ -25,7 +25,7 @@
     "name": "Vegetable Sandwich",
     "description": "Fresh vegetable sandwich with cucumber, tomato, and chutney.",
     "price": 4.99,
-    "imageURL": "https://unsplash.com/photos/burger-with-lettuce-and-tomatoes-cwOHrpKXhRI",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Veg_sandwich_recipe_in_hindi.jpg/640px-Veg_sandwich_recipe_in_hindi.jpg",
     "calories": 220,
     "protein": 6,
     "carbs": 30
@@ -35,7 +35,7 @@
     "name": "Margherita Pizza",
     "description": "Classic pizza with tomato sauce, mozzarella, and fresh basil.",
     "price": 9.99,
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Pizza_margherita_stu_spivack.jpg",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Margherita_Pizza_of_The_Point_Pizza_and_Point.jpg/640px-Margherita_Pizza_of_The_Point_Pizza_and_Point.jpg",
     "calories": 400,
     "protein": 15,
     "carbs": 50
@@ -45,7 +45,7 @@
     "name": "Veggie Burger",
     "description": "Grilled vegetable patty burger with lettuce and tomato.",
     "price": 6.99,
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/23/Veggie_Burger.jpg",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hamburguesa_vegana_en_Casa_Onca_3.jpg/640px-Hamburguesa_vegana_en_Casa_Onca_3.jpg",
     "calories": 320,
     "protein": 12,
     "carbs": 38
@@ -55,7 +55,7 @@
     "name": "Masala Maggi",
     "description": "Instant noodles tossed with Indian spices and vegetables.",
     "price": 3.99,
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Maggi_noodles.jpg",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Vegetable_maggi_2.jpg/640px-Vegetable_maggi_2.jpg",
     "calories": 280,
     "protein": 6,
     "carbs": 42
