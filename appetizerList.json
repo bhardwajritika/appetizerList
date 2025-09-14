@@ -55,7 +55,7 @@
     "name": "Masala Maggi",
     "description": "Instant noodles tossed with Indian spices and vegetables.",
     "price": 3.99,
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Vegetable_maggi_2.jpg/640px-Vegetable_maggi_2.jpg",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Maggi.._photography.jpg/640px-Maggi.._photography.jpg",
     "calories": 280,
     "protein": 6,
     "carbs": 42
@@ -65,7 +65,7 @@
     "name": "Bruschetta",
     "description": "Toasted bread topped with fresh tomatoes, garlic, and basil.",
     "price": 5.99,
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Bruschetta_2.jpg",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bruschetta_at_The_Bar_at_MacArthur_Place_-_Sarah_Stierch.jpg/640px-Bruschetta_at_The_Bar_at_MacArthur_Place_-_Sarah_Stierch.jpg",
     "calories": 150,
     "protein": 3,
     "carbs": 18
@@ -75,7 +75,7 @@
     "name": "Stuffed Mushrooms",
     "description": "Mushrooms stuffed with cheese, herbs, and breadcrumbs.",
     "price": 7.49,
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/7/70/Stuffed_mushrooms.jpg",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Stuffed_mushrooms%2C_2015-06-25.jpg/640px-Stuffed_mushrooms%2C_2015-06-25.jpg",
     "calories": 120,
     "protein": 5,
     "carbs": 8
@@ -85,7 +85,7 @@
     "name": "Caprese Salad",
     "description": "Fresh mozzarella, tomatoes, and basil drizzled with olive oil.",
     "price": 6.99,
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/9/94/Caprese_salad.jpg",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Caprese-1.jpg/640px-Caprese-1.jpg",
     "calories": 200,
     "protein": 7,
     "carbs": 6
@@ -95,7 +95,7 @@
     "name": "Spinach Dip",
     "description": "Creamy spinach dip served with pita chips.",
     "price": 6.49,
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/27/Spinach_dip.jpg",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Spinach_%26_artichoke_dip.jpg/640px-Spinach_%26_artichoke_dip.jpg",
     "calories": 180,
     "protein": 4,
     "carbs": 14
@@ -105,7 +105,7 @@
     "name": "Hummus & Veggies",
     "description": "Classic hummus served with crunchy vegetable sticks.",
     "price": 5.49,
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Hummus_and_vegetables.jpg",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Meze_plate.jpg/640px-Meze_plate.jpg",
     "calories": 170,
     "protein": 6,
     "carbs": 12
@@ -115,7 +115,7 @@
     "name": "Zucchini Fritters",
     "description": "Crispy zucchini fritters with herb sour cream.",
     "price": 7.99,
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Zucchini_fritters.jpg",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Zucchini_%26_feta_fritters_%287804257920%29.jpg/640px-Zucchini_%26_feta_fritters_%287804257920%29.jpg",
     "calories": 220,
     "protein": 5,
     "carbs": 20
@@ -125,7 +125,7 @@
     "name": "Edamame",
     "description": "Steamed edamame sprinkled with sea salt.",
     "price": 4.99,
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Edamame.jpg",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Edamame_noodle_bowl_%2841025426465%29.jpg/640px-Edamame_noodle_bowl_%2841025426465%29.jpg",
     "calories": 120,
     "protein": 11,
     "carbs": 9
@@ -135,7 +135,7 @@
     "name": "Guacamole & Chips",
     "description": "Creamy guacamole served with tortilla chips.",
     "price": 6.49,
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Guacamole_with_chips.jpg",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Tortilla_chips-Guacamole-2011.JPG/640px-Tortilla_chips-Guacamole-2011.JPG",
     "calories": 210,
     "protein": 3,
     "carbs": 18
@@ -145,7 +145,7 @@
     "name": "Panzanella Salad",
     "description": "Tuscan-style tomato and bread salad bursting with flavor.",
     "price": 6.99,
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/04/Panzanella_salad.jpg",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Salmon_Spinach_Panzanella.jpg/640px-Salmon_Spinach_Panzanella.jpg",
     "calories": 180,
     "protein": 5,
     "carbs": 22
